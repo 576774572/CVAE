@@ -1,6 +1,7 @@
 # CVAE (Conditional variational-autoencoder)
-
+# Product-processing-order-optimization
 元論文 https://openreview.net/pdf?id=90JprVrJBO
+
 元論文コード https://github.com/ahottung/CVAE-Opt#quick-start　
 
 ## 環境
